@@ -1,2 +1,2 @@
 # test_for_skill
-skill测试
+每一个人都有必要学习skill吗？
